@@ -12,4 +12,4 @@
 <a href="https://discord.gg/pQNMx9RPWN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pQNMx9RPWN" height="30" width="40" /></a>
 </p>
 
-[![Ashutosh's atividades](https://github-readme-activity-graph.cyclic.app/graph?username=lineutavares&bg_color=120d0d&color=ec13dd&line=9e4c4c&point=02d2ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lineutavares&bg_color=000000&color=2b6ea1&line=009dff&point=ed021a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
