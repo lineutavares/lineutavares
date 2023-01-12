@@ -10,6 +10,13 @@ Quem sou eu?
 - Personalidade: Arquiteto: INTJ-T
 - Apaixonado por: Tecnologia, finanças e prática esportiva (corridas e trilhas) 
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lineutavares&show_icons=true&theme=vision-friendly-dark" alt="lineutavares's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lineutavares&layout=compact&theme=vision-friendly-dark" alt="lineutavares's most languages"/>
+</p>
+
 Soft Skills
 - Começa e TERMINA projeto + Resiliência
 - Pensamento criativo + Perseverança 
