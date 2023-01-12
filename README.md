@@ -11,3 +11,5 @@
 <a href="https://www.youtube.com/c/devcomcafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devcomcafe" height="30" width="40" /></a>
 <a href="https://discord.gg/pQNMx9RPWN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pQNMx9RPWN" height="30" width="40" /></a>
 </p>
+
+[![Ashutosh's atividades](https://github-readme-activity-graph.cyclic.app/graph?username=lineutavares&bg_color=120d0d&color=ec13dd&line=9e4c4c&point=02d2ed&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
