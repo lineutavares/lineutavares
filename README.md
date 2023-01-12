@@ -12,10 +12,8 @@ Quem sou eu?
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lineutavares&show_icons=true&theme=vision-friendly-dark" alt="lineutavares's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lineutavares&layout=compact&theme=vision-friendly-dark" alt="lineutavares's most languages"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lineutavares)](https://github.com/lineutavares/github-readme-stats)
+
 
 Soft Skills
 - Começa e TERMINA projeto + Resiliência
