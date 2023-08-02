@@ -15,7 +15,7 @@
 
 ###
 Quem sou eu?
-- Vindo do Sertão Nordestino,estudo na UFCG - Ciência da Computação com excelência em formação de profissionais da TI (um dos 3 melhores do Brasil). O que não me desafia, não me trasforma! 
+- Vindo do Sertão Nordestino,estudo na UFCG - Ciência da Computação com excelência em formação de profissionais da TI (uma das 5 melhores do Brasil). O que não me desafia, não me trasforma! 
 - Personalidade: Arquiteto: INTJ-T
 - Apaixonado por: Tecnologia, finanças e prática esportiva (corridas e trilhas) 
 
