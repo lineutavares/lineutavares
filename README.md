@@ -1,4 +1,4 @@
-### Olá, eu sou o Lineu <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
+### 👋 Olá, eu sou o Lineu <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
 
 
 <h1 align="center">👋Olá, eu sou o Lineu!</h1>
