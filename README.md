@@ -1,14 +1,5 @@
 ### 👋 Olá, eu sou o Lineu <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='50'/>
 <p align="left"></p>
-
-<h2 align="left">Redes Sociais:</h2>
-
-###
-
-<img align="right" height="270" src="https://thumbs.gfycat.com/DeadPerfumedBergerpicard-max-1mb.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/tavareslineu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -22,9 +13,6 @@
 </div>
 
 ###
-
-
-
 
 
 
