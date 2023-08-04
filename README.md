@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="left">Redes Sociais:</h1>
+<h2 align="left">Redes Sociais:</h2>
 
 ###
 
@@ -28,9 +28,6 @@
 </div>
 
 ###
-
-
-
 
 
 
