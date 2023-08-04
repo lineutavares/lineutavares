@@ -1,5 +1,4 @@
 ### 👋 Olá, eu sou o Lineu <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='50'/>
-
 <p align="left"></p>
 
 ###
@@ -7,12 +6,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="230" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-marketing-2.gif"  />
+  <img height="250" src="https://thumbs.gfycat.com/DeadPerfumedBergerpicard-max-1mb.gif"  />
 </div>
 
 ###
 
-<h3 align="left">Redes Sociais:</h3>
+<h1 align="left">Redes Sociais:</h1>
 
 ###
 
@@ -29,7 +28,6 @@
 </div>
 
 ###
-
 
 
 
