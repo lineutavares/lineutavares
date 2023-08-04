@@ -7,7 +7,6 @@
 </a>
 <a href="https://instagram.com/o_lineutavares" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  <img https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white/ 5px;" />
 
 </a>  
 </div>  
