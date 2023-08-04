@@ -18,9 +18,9 @@
 
 ###
 Quem sou eu?
-- Vindo do Sertão Nordestino,estudo na UFCG - Ciência da Computação com excelência em formação de profissionais da TI (uma das 5 melhores do Brasil). O que não me desafia, não me trasforma! 
-- Personalidade: Arquiteto: INTJ-T
-- Apaixonado por: Tecnologia, finanças e prática esportiva (corridas e trilhas) 
+ - 👨‍🎓 Estudante da UFCG - Ciência da Computação,com excelência em formação de profissionais da TI (uma das 5 melhores do Brasil).
+ - Personalidade: Arquiteto: INTJ-T
+- 👌 Hobbys: Tecnologia, finanças e prática esportiva (corridas e trilhas) 
 
 <h3 align="center"></h3>
 
