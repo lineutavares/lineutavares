@@ -1,5 +1,40 @@
 ### 👋 Olá, eu sou o Lineu <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='50'/>
-  
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="230" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-marketing-2.gif"  />
+</div>
+
+###
+
+<h3 align="left">Redes Sociais:</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/tavareslineu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UC_2diSylE7edvg12iTZpweQ/featured" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/o_lineutavares/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+
+
+
+
+
 ## Redes Sociais
 <div align="center">
 <a href="https://linkedin.com/in/tavareslineu" target="_blank">
