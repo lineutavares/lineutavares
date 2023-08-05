@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o Lineu <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='50'/>
+### 👋 Hi, I'm Lineu! <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='50'/>
 <p align="left"></p>
 <div align="left">
   <a href="https://www.linkedin.com/in/tavareslineu/" target="_blank">
