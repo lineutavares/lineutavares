@@ -19,6 +19,7 @@
 ###
 🔍 Always curious, building solutions to real problems
 🎲 Data Engineering Student
+
 <h3 align="center"></h3>
 
 <h3 align="left">>
