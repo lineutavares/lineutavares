@@ -14,7 +14,7 @@
 
 ###
 
-- 🔍 Always curious, building solutions to real problems
+- 🔧 Always curious, building solutions to real problems
 - 🎲 Data Engineering Student 
 
 <h3 align="left">>
