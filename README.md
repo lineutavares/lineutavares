@@ -17,17 +17,14 @@
 </div>
 
 ###
-Quem sou eu?
-- Estudante da UFCG - Ciência da Computação,com excelência em formação de profissionais da TI (uma das 5 melhores do Brasil).
-- Personalidade: Arquiteto: INTJ-T
-- Hobbys: Tecnologia, finanças e prática esportiva (corridas e trilhas) 
-
+🔍 Always curious, building solutions to real problems
+🎲 Data Engineering Student
 <h3 align="center"></h3>
 
 <h3 align="left">>
 <p align="left">
 </p>
-<h3 align="left">Linguagens e Ferramentas:</h3>
+<h3 align="left">Languages ​​and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
