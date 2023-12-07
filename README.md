@@ -13,7 +13,7 @@
 ###
 
 - 🔧 Always curious, building solutions to real problems
-- 👨🏻‍💻 Software Developer Student 
+- 🎲 Data Engineer Student 
 
 <h3 align="left">>
 <p align="left">
