@@ -13,7 +13,7 @@
 ###
 
 - 🔧 Always curious, building solutions to real problems
-- 🎲 Data Engineer Student 
+- 🎲 Data Scientist Student 
 
 <h3 align="left">>
 <p align="left">
